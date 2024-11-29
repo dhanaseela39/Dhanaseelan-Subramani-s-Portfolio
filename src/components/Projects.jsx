@@ -5,7 +5,7 @@ const Projects = () => {
     {
       title: "Disaster Zone Navigating Robot (non-autonomous)",
       content: "A robot designed to remotely navigate hazardous environments, equipped with sensors and cameras for real-time feedback. Ideal for search, rescue, and data collection missions.",
-      image: "https://media.licdn.com/dms/image/v2/D562DAQHjkilQvX-doQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1732767466420?e=1733374800&v=beta&t=PHXBQWJIhRL0ZwKovbX8MaH0_H-koy5mvVCA94R7apw",
+      image: "https://media.licdn.com/dms/image/v2/D562DAQFU59o-gptlIA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1732769096605?e=1733461200&v=beta&t=tjJJAW-bZNlBZXf8Badvopm1G0t8OKLh4KibKRl0ToQ",
       url: "https://docs.google.com/presentation/d/1004FZ6FLMy8W6qL5BBB_bA0vMyLYt7aATjx9k7Ob-TQ/edit?usp=sharing",
     },
     {
