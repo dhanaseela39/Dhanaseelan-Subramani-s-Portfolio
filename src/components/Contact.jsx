@@ -21,7 +21,7 @@ const Contact = () => {
 
   return (
     <section id='contact' class='contact container'>
-      <h2 class="text-center">Contact</h2>
+      <h2 class="text-center">Contact Me</h2>
       <p class="text-center">Fill out the form and I will get back to you as soon as possible!</p>
       <div class='row'>
         <div class='row justify-content-center card border border-dark'>
